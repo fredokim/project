@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+	#Mynotesubject{color:#797979; font-size:21px; display: inline-block; margin-left:23%; margin-top:3%;  }
+
+	#dictionary{ width:80%; height:50px; margin: 2%  10% 5% 10%; text-align: center; }	
+	.dictionary_name{color:#797979; font-size:20px; display: inline-block; margin: 20px auto; text-align:center;
+					 width:180px; border-radius:20px;} 
+	.dictionary_name:hover{background-color:#52d3aa; color:white; border-radius:20px;}
+	
+	.now_page{background-color:#52d3aa; color:white; border-radius:20px; }
+	
+	.all{margin: 30px auto;}
+	.wordss{border:1px solid #E6E6E6; width:70%; height:140px; margin: 0px auto;}
+	.wordss2{border:1px solid #E6E6E6; width:500px; height:140px; margin: 0px auto;}
+	
+	.no-words {
+	text-align: center;
+	margin: 15% 10% 15% 10%;
+	font-size: 1.2em;
+	}
+	
+	.words{margin:10px 30px}
+	.words_word{color:#424242; font-weight:bold; margin-top:35px; margin-bottom:0}
+	.words_content{margin:25px 35px; font-size:14px;}
+	.wordsButton{float:right; background:#52d3aa; color:#fff; margin-left:5px; margin-top:30px;} 
+	#x{margin-right:20px;}
+	
+ 	.select-div {
+		width: 70%;
+		margin: 0 auto;
+		text-align: right;
+	}
+	
+	#wordtest{margin-left:22%; color:white; width:555px; height:50px; background-color:#52d3aa;
+				 border-radius:25%; text-align:center; line-height:30px;} 
+				 
+	.nini{margin-left:48%;}	
+	.nini2{margin-left:56%;}	
+	
+	.mypagelist{color:#797979; text-align:center;}
+	#nowmylist{color:#2b929d;}
+	
+	

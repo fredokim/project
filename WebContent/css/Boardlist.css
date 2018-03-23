@@ -1,0 +1,83 @@
+@charset "UTF-8";
+
+#readcount, #date, #writer, #subject, #num {
+	margin: 0 auto;
+	text-align: right;
+	color: black;
+}
+#subject{
+	text-align: center;
+}
+
+#write, #admin {
+	color: #52d3aa;
+}
+
+#view {
+	color: #828282;
+}
+
+#list {
+	width: 98%;
+}
+
+#list>th, td {
+	border-top: 1px solid #444444;
+}
+
+#page {
+	text-align: center;
+}
+
+#title {
+	text-align: left;
+	color: #52d3aa;
+	margin-bottom: 40px;
+}
+
+#listnum {
+	text-align: right;
+	height: 30px;
+}
+
+#numset, #dateset, #readcountset, #idset {
+	text-align: right;
+		margin-left:13px;
+}
+#div{
+	margin-left:13px;
+}
+#main {
+	width: 70%;
+	display: inline-block;
+	margin-top: 10%;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+.lime #page {
+	color: #52d3aa;
+	margin: 5px;
+}
+
+.right .span {
+	border-bottom: none;
+}
+.table td:last-child{
+	padding-top:13px;
+}
+
+/* #search{
+	width:50%;
+} */
+
+#list-form{
+	width:100%;
+	padding:0 25% 0 25%;
+	text-align: center
+}
+
+#title-admin{
+	color:gray;
+	
+}

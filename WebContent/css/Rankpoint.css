@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+#main {
+	width: 70%;
+	display: inline-block;
+	margin-top: 10%;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+#list {
+	width: 98%;
+}
+
+#title {
+	text-align: left;
+	color: #52d3aa;
+	padding-top: 20px;
+	margin-bottom: 40px;
+}
+#rankhead,#namehead,#pointhead{
+	color: black;
+	margin:  0 auto;
+}

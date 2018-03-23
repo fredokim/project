@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+	#Mynotesubject{color:#797979; font-size:21px; display: inline-block; margin-left:23%; margin-top:3%;  }
+
+	#dictionary{ width:80%; height:50px; margin: 2% 10% 5% 10%; text-align: center; }	
+	.dictionary_name{color:#797979; font-size:20px; display: inline-block; margin: 20px auto; text-align:center;
+					 width:180px; border-radius:20px;} 
+	.dictionary_name:hover{background-color:#2b929d; color:white; border-radius:20px;}
+	 
+	.now_page{background-color:#2b929d; color:white; border-radius:20px; }
+	
+	.all{margin: 30px auto;}
+	.wordss{border:1px solid #E6E6E6; width:70%; height:180px; margin: 0px auto;}
+	.words{margin:10px 30px}
+	.words_word{color:#424242; font-weight:bold; margin-top:35px; margin-bottom:0}
+	.words_content{margin:25px 35px; font-size:14px;}
+	.wordsButton{float:right; background:#2b929d; color:#fff; margin-left:5px; margin-top:30px; margin-right: 15px!important;} 
+	#v{margin-right:20px;}
+	
+	.select-div {
+		width: 70%;
+		margin: 0 auto;
+		text-align: right;
+	}
+	.nini{margin-left:48%;}
+	.botbutton{background:#2b929d; color:white;}
+	
+	.pagelist{text-align:center; color:#797979;}
+	#nowwordlist{color:#2b929d;}

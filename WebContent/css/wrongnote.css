@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+	#Mynotesubject{color:#797979; font-size:21px; display: inline-block; margin-left:23%; margin-top:3%;  }
+
+	#dictionary{ width:80%; height:50px; margin: 5% 10% 5% 10%; text-align: center; }	
+	.dictionary_name{color:#797979; font-size:20px; display: inline-block; margin: 20px auto; text-align:center;
+					 width:180px; border-radius:20px;} 
+	.dictionary_name:hover{background-color:#a09f9f; color:white; border-radius:20px;}
+	
+	.now_page{background-color:#a09f9f; color:white; border-radius:20px; }
+	
+	.all{margin: 30px auto;}
+	.wordss{border:1px solid #E6E6E6; width:800px; height:140px; margin: 0px auto;}
+	.words{margin:10px 30px}
+	.words_word{color:#424242; font-weight:bold; margin-top:35px; margin-bottom:0}
+	.words_content{margin:25px 35px; font-size:14px;}
+	.wordsButton{float:right; background:#a09f9f; color:#fff; margin-left:5px; margin-top:30px;} 
+	#x{margin-right:20px;}
+	
+	.no-words {
+	text-align: center;
+	margin: 15% 10% 15% 10%;
+	font-size: 1.2em;
+	}
+ 
+	
+	#wordtest{margin-left:22%; color:white; width:555px; height:50px; background-color:#a09f9f;
+				 border-radius:25%; text-align:center; line-height:30px;} 
+				 
+	.nini{margin-left:48%;}	
+	.nini2{margin-left:48%;}	
+	
+	.redsub{font-size:28px; color:#ff5b5b; }
+	.subsub{margin-left:1%; margin-right:0; color:red; font-size:30px; }
+	.wrongsub{margin-left:25%; font-size:28px; width:200px; height:50px; background-color:#a09f9f;}
+	
+	.wrong_left{width:200px; height:50px; font-size:30px; color:#29a37b }
+	.wrong_right{margin-left:24%; font-size:30px; color:#29a37b}
+	.asas1{ background-color:#a09f9f; color:white;}
+	
+	

@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+#main {
+	width: 80%;
+	display: inline-block;
+	margin-top: 10%;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+#contentset {
+	text-align: left;
+	vertical-align: top;
+	height: 250px;
+	padding: 20px;
+}
+#list {
+	width: 98%;
+}
+
+#write, #back {
+	color: black;
+}
+
+.center {
+	text-align: center;
+}
+
+#title {
+	margin: 0 auto;
+	text-align: left;
+	color: #52d3aa;
+	margin-bottom: 15;
+}
+
+#writer, #subject, #content, #boardpass {
+	text-align: center;
+	color: black;
+	margin-right: 13px;
+}
+.span {
+	background: #fff;
+	padding: 4px 35px;
+	color: #52d3aa;
+	display: inline-block;
+}

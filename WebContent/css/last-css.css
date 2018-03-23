@@ -1,0 +1,175 @@
+@charset "UTF-8";
+
+
+/* 현선 추가 */
+
+.gtco-nav .gtco-container .col-xs-2 #gtco-logo{ 
+	color:white;
+}
+
+.gtco-nav .gtco-container .row .col-xs-2 #logo-l {
+	font-style:italic;
+	color: #52d3aa;
+}
+
+#logo-l {
+	font-style:italic;
+	color: #52d3aa;
+}
+
+#header-user {
+	color:white;
+	
+}
+
+#header-user:hover {
+	color:#52d3aa;
+	
+}
+
+
+#searchword {
+	width: 70%;
+	box-shadow: none;
+    border: 2px solid rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    height: 45px;
+    font-size: 0.8em;
+    font-weight: 300;
+    margin-bottom: 9%;
+	margin-top: 2%;
+}
+
+#gtco-header .display-tc .btn-modify {
+	padding : 10px 30px !important;
+	background-color: #52d3aa !important;
+	color: white;
+}
+
+#gtco-header .display-tc .btn-modify:hover {
+	
+	background-color: white;
+	color: #52d3aa;
+	
+}
+
+#gtco-header .display-tc .btn-category {
+	
+	color:white;
+	font-weight:bold;
+	height:60px;
+	padding: 16px 30px;
+	border-radius: 35px;
+	margin:0 10px;
+	margin-bottom: 4%;
+	background-color: rgba( 255, 255, 255, 0.5 );
+}
+
+#gtco-header .display-tc .btn-category:hover {
+	
+	color:#52d3aa;
+}
+
+/* header밑 article header까지 마진차지하는 것 방지 */
+#article {
+	display: inline-block;
+	margin: 6% 0 0 10%;
+	width:80%;
+}
+
+#article .searchword-hr{
+	margin-right: 0%;
+} 
+
+#wordsearch-form  .searchword-hr2 {
+	 margin-bottom: 10%
+	 
+}
+
+#wordsearch-form #addword-btn{
+	margin-bottom: 10%;
+}
+
+#searchword-h3{
+	
+	font-size: 1.3em;	
+	font-weight: normal;
+	color:#BDBDBD;
+	text-align: left;
+}
+
+
+#wordsearch-form {
+	text-align: center;
+	
+}
+
+.row .animate-box .btn .btn-primary .btn-addword {
+	display: inline;
+}
+
+
+#confirm_answer{
+	width: 80%;
+	box-shadow: none;
+    border: 2px solid rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    height: 45px;
+    font-size: 0.8em;
+    font-weight: 300;
+    margin-bottom: 1%;
+}
+
+#test_content {
+	margin-bottom: 7%;
+	
+}
+
+.countdown_div{
+	font-size:0.8em;
+	margin: 2% 8% 3% 10% ;
+	width:80%;
+	display: inline-block;
+}
+
+.category {
+	display:inline-block;
+	margin-top:3%;
+	text-align: left;
+	width:49%;
+	
+}
+
+.reamainingtime{
+	display:inline-block;
+	text-align: right;
+	width:10%;
+	min-width: 63px;
+}
+
+.countdown{
+	font-size: 1.5em;
+}
+
+.reamainingtime.question{
+	width:39%;
+	
+}
+
+.reamainingtime.question h5{
+	font-size: 1.5em;
+	color:#828282;
+	
+}
+
+
+h2.word-h2{
+	clear:left;
+}
+
+.main-h4 {
+	color:white;
+	margin-top: 2%;
+	
+}
+

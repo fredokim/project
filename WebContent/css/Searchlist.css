@@ -1,0 +1,65 @@
+@charset "UTF-8";
+
+#readcount, #date, #writer {
+	margin: 0 auto;
+	text-align: right;
+	color: black;
+}
+
+#subject {
+	margin-left: 13px;
+	text-align: left;
+}
+
+#write, #admin {
+	color: #52d3aa;
+}
+
+#view {
+	color: #828282;
+}
+
+#list {
+	width: 98%;
+}
+
+#title {
+	text-align: left;
+	color: #52d3aa;
+	margin-bottom: 40px;
+}
+
+#listnum {
+	text-align: right;
+	height: 30px;
+}
+
+#dateset, #readcountset, #idset {
+	text-align: right;
+	margin-left: 13px;
+}
+
+#div {
+	margin-left: 13px;
+	text-align: left;
+}
+
+#main {
+	width: 70%;
+	display: inline-block;
+	margin-top: 30px;
+	margin-left: 250px;
+	margin-right: 100px;
+}
+
+#search {
+	width: 100%;
+	display: inline-block;
+	margin-top: 20px;
+	margin-left: 25%;
+	margin-right: 25%;
+}
+
+#none {
+	text-align: center;
+}

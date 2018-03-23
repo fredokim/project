@@ -1,0 +1,67 @@
+@charset "UTF-8";
+
+#main {
+	width: 80%;
+	display: inline-block;
+	margin-top: 10%;
+	margin-left: 10%;
+	margin-right: 10%;
+	overflow: auto;
+}
+
+#comment {
+	margin-left: 50px;
+	width: 90%;
+	overflow: auto;
+}
+
+#subject, #content, #file, #title {
+	margin: 10 auto;
+	text-align: center;
+	color: black;
+}
+#comment_sub{
+	text-align: center;
+	color:black;
+	margin :10 auto;
+}
+#comment_head {
+	color: black;
+	text-align: center;
+}
+
+#list {
+	width: 98%;
+}
+
+.center {
+	text-align: center;
+}
+
+#contentset {
+	text-align: left;
+	vertical-align: top;
+	height: 250px;
+	padding: 20px;
+}
+
+#subjectset {
+	padding: 20px;
+}
+
+#title {
+	text-align: left;
+	margin-bottom: 40px;
+	color: #52d3aa;
+}
+
+.span {
+	background: #fff;
+	padding: 4px 35px;
+	color: #52d3aa;
+	display: inline-block;
+}
+
+.center .lime {
+	padding-top: 13;
+}

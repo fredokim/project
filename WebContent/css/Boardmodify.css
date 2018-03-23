@@ -1,0 +1,59 @@
+@charset "UTF-8";
+
+#main {
+	display: inline-block;
+	width: 70%;
+	margin-top: 10%;
+	margin-left: 250;
+	margin-right: 50;
+}
+
+#list {
+	width: 98%;
+}
+
+.center {
+	padding-top: 13;
+	text-align: center;
+}
+
+#title {
+	margin: 0 auto;
+	text-align: left;
+	color: #52d3aa;
+	margin-bottom: 30;
+}
+
+#upload, #subject, #content {
+	text-align: center;
+	color: black;
+	margin-right: 13px;
+}
+
+.span {
+	background: #fff;
+	padding: 4px 35px;
+	color: #52d3aa;
+	display: inline-block;
+	padding-top: 10;
+}
+
+#subjecthead {
+	height: 30px;
+}
+
+#contentset {
+	text-align: left;
+	vertical-align: top;
+	height: 250px;
+	padding: 20;
+}
+
+#subject2 {
+	height: 40px;
+	padding-left: 20;
+}
+
+#list>th, td:last-child {
+	border-bottom: none;
+}
