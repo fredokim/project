@@ -8,6 +8,7 @@ public class mynoteBean {
 	private String word;
 	private String content;
 	private String hint;
+
 	
 	public int getNum() {
 		return num;
